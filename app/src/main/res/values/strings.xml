@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mandaditos</string>
+    <string name="registrar">registrar</string>
+    <string name="pass2">Confirmar contraseña</string>
+    <string name="pass">Contraseña</string>
+    <string name="numero">Numero</string>
+    <string name="todo">TODO</string>
+</resources>

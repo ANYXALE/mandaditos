@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "441242204910",
+    "firebase_url": "https://mandaditos-481eb.firebaseio.com",
+    "project_id": "mandaditos-481eb",
+    "storage_bucket": "mandaditos-481eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441242204910:android:084fdc4ce47cd3366751ff",
+        "android_client_info": {
+          "package_name": "com.example.mandaditos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441242204910-erdnrrnd61bg5lveu460mqmc0v6bm6vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mandaditos",
+            "certificate_hash": "9dec5ac7177f6ec95281c0806a136be8e9dc800d"
+          }
+        },
+        {
+          "client_id": "441242204910-ohgabl98uop2a97bl37gs0tjjhfp7uvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWVuE9u4BL1fwAjYccHSjfsoZszAwA0WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441242204910-ohgabl98uop2a97bl37gs0tjjhfp7uvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
